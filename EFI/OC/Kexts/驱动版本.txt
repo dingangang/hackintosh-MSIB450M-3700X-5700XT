@@ -1,0 +1,5 @@
+WhateverGreen_v1.3.6.kext
+VirtualSMC_v1.0.7.kext
+RealtekRTL8111.kext
+AppleALC_v1.4.6.kext
+Lilu_Debug_v1.4.1.kext
